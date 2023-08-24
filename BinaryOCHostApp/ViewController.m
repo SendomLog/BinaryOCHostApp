@@ -7,6 +7,8 @@
 
 #import "ViewController.h"
 
+#import <BinaryOCCode/SDZOCClass.h>
+
 @interface ViewController ()
 
 @end
@@ -16,6 +18,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
+    [[SDZOCClass new] sayHello];
 }
 
 
