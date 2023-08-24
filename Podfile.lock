@@ -1,16 +1,20 @@
 PODS:
   - BinaryOCCode (0.1.0)
+  - BinarySwiftCode (0.1.0)
 
 DEPENDENCIES:
   - BinaryOCCode
+  - BinarySwiftCode
 
 SPEC REPOS:
   "git@github.com:SendomLog/BinarySpecSource.git":
     - BinaryOCCode
+    - BinarySwiftCode
 
 SPEC CHECKSUMS:
   BinaryOCCode: 8bd38311570ab447992abd70a516eade65919847
+  BinarySwiftCode: 0cfa69d87765aa575e3a77be82293459e3400d2b
 
-PODFILE CHECKSUM: f46f1e9e1292064ba9f6e59cb4e2ebd85d957c9f
+PODFILE CHECKSUM: 929d507059654484256349c54b60c26587d8a94a
 
 COCOAPODS: 1.11.3
